@@ -485,13 +485,11 @@ function main(){
 });
 
 var typed = new Typed(".type_home_description", {
-    strings: [" High level experience in web design and development knowledge, producing quality work.",
-     "Hi", 
-     "pla pla pla ..."
+    strings: [" High level experience in web design and development knowledge, producing quality work."
     ],
     typeSpeed: 15,
     backSpeed: 15,
-    loop: true
+    loop: false
 });
 
 setInterval(()=>{
