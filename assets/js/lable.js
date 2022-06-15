@@ -59,7 +59,7 @@ const app ={
     aboutme:[
         {
             description:'Web developer, mới nhú đang học hỏi và phát triển bản thân.',
-            image:'/assets/img/perfil.png',
+            image:'/assets/img/thinhne2.jpg',
             cv:'/assets/pdf/TranVanThinh_CV.pdf',
 
 

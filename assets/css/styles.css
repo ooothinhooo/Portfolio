@@ -1138,3 +1138,9 @@ justify-self: right;
 .green{
   color:rgb(3, 157, 19);
 }
+.contact__container{
+  display: flex;
+}
+.contact__content{
+  margin: auto;
+}
